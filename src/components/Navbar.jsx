@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import { createPortal } from "react-dom";
+import React from "react";
 import CreateAccount from "./CreateAccount";
 
 const Navbar = () => {
